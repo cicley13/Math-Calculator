@@ -13,8 +13,6 @@ namespace Math_app
             Math m = new Math();
             m.Equation();
 
-            //Hello
-            //Another hello
         }
 
     }
